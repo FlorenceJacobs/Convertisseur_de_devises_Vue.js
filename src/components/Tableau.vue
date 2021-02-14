@@ -18,6 +18,7 @@
                 </tr>
             </tbody>
         </table>
+        <p>From API <a href="https://api.exchangeratesapi.io">https://api.exchangeratesapi.io</a></p>
     </div>
 </template>
 
